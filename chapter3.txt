@@ -1,0 +1,2 @@
+The chapter2 has been created. I am practicing git. Use "git add ." to add all files together.
+ 
