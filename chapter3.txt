@@ -1,4 +1,4 @@
 The chapter2 has been created. I am practicing git. Use "git add ." to add all files together. Use "git diff" to find difference between previous and 
-new versions. Use "git remote add orgin "link"" to create a remote repository. Use "git push -u origin master" to push local repository to remote repository.
+new versions. Use "git remote add origin "link"" to create a remote repository. Use "git push -u origin master" to push local repository to remote repository.
 
   
