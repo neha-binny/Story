@@ -1,2 +1,3 @@
 The chapter 1 has been created. Then "git status". "git add chapter1.txt" for staging,i.e., to modify the versions. Then "git commit -m "Complete Chapter 1"".
-The "git log" to see the commits made.
+The "git log" to see the commits made. "git branch branch-name" creates a new branch. "git branch" gives the list of branches."git checkout branch-name" changes to
+the branch: branch-name.
